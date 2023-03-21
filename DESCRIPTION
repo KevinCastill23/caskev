@@ -1,0 +1,11 @@
+Package: CasKev
+Type: Package
+Title: What the Package Does (Does Assigment week 10!)
+Version: 0.1.0
+Author: Kevin Castillo
+Maintainer: The package maintainer <kevincastill@usf.edu>
+Description: More about what it does (Will be described later on)
+    Use four spaces when indenting paragraphs within the Description.
+License: GNU
+Encoding: UTF-8
+LazyData: true
